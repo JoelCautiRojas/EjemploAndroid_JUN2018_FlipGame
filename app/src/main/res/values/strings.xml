@@ -1,0 +1,15 @@
+<resources>
+    <string name="num_element_Y">Numero elementos en el eje Y:</string>
+    <string name="num_element_X">Numero elementos en el eje X:</string>
+    <string name="num_colors">Numero de tramas:</string>
+    <string name="app_name">Proyecto_JUN2018_FlipGame</string>
+    <string name="colores">colores</string>
+    <string name="numeros">numeros</string>
+    <string name="sonido">sonido</string>
+    <string name="vibracion">vibracion</string>
+    <string name="jugador">Jugador</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="game_end">Se finalizo el juego con un total de %d pulsaciones</string>
+    <string name="score_clicks">Pulsaciones :</string>
+</resources>
