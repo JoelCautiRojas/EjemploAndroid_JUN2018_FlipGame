@@ -23,7 +23,6 @@
     <string name="indice_parrafo5">Asi como cada celda tiene un patron diferente de cambio, las esquinas cambian a las tres celdas mas cercanas y los lados y el medio cambian las celdas en cruz.</string>
     <string name="indice_parrafo6">El objetivo del juego es hacer que todas las celdas tengan la misma trama.</string>
 
-
     <!-- Antivity Jugar -->
     <string name="colores">colores</string>
     <string name="numeros">numeros</string>
