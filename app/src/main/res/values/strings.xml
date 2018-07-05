@@ -1,8 +1,30 @@
 <resources>
+
+    <string name="app_name">Ejemplo Flip Game</string>
+
+    <!-- Menu -->
+    <string name="opcion1_menu1">Indice</string>
+    <string name="opcion2_menu1">Jugar</string>
+    <string name="opcion3_menu1">Acerca de Nosotros</string>
+
+    <!-- Imagenes -->
+    <string name="icono1">Icono de Android</string>
+
     <string name="num_element_Y">Numero elementos en el eje Y:</string>
     <string name="num_element_X">Numero elementos en el eje X:</string>
     <string name="num_colors">Numero de tramas:</string>
-    <string name="app_name">Proyecto_JUN2018_FlipGame</string>
+
+    <!-- Antivity Indice -->
+    <string name="indice_titulo">Indicaciones:</string>
+    <string name="indice_parrafo1">La aplicacion presenta la creacion de un tablero en JAVA, para un pequeño juego, por cada celda habra una trama diferente, generada de maneara aleatoria.</string>
+    <string name="indice_parrafo2">Primero se debe configurar la cantidad de columnas y filas que tendra el tablero, asi como el numero de tramas.</string>
+    <string name="indice_parrafo3">Cuando se de click en una celda, las celdas a su alrededor tambien cambiaran.</string>
+    <string name="indice_parrafo4">Cada trama cambia a la siguiente, siguiendo una secuencia, que se repetira indefinidamente.</string>
+    <string name="indice_parrafo5">Asi como cada celda tiene un patron diferente de cambio, las esquinas cambian a las tres celdas mas cercanas y los lados y el medio cambian las celdas en cruz.</string>
+    <string name="indice_parrafo6">El objetivo del juego es hacer que todas las celdas tengan la misma trama.</string>
+
+
+    <!-- Antivity Jugar -->
     <string name="colores">colores</string>
     <string name="numeros">numeros</string>
     <string name="sonido">sonido</string>
@@ -12,4 +34,22 @@
     <string name="acerca_de">Acerca de</string>
     <string name="game_end">Se finalizo el juego con un total de %d pulsaciones</string>
     <string name="score_clicks">Pulsaciones :</string>
+
+    <!-- Activity Firma -->
+    <string name="firma_repositorio">https://github.com/JoelCautiRojas/EjemploAndroid_JUN2018_FlipGame.git</string>
+    <string name="firma_autorName">Joel Ruben Cauti Rojas</string>
+    <string name="firma_autorPais">LIMA - PERÚ</string>
+    <string name="firma_autorPhone">+051 – 963 315 470</string>
+    <string name="firma_ejercicioTitulo">Ejercicio Flip Game</string>
+    <string name="firma_enlaceWeb">http://www.programadoresperuanos.com</string>
+    <string name="firma_titulo">PROGRAMADORES PERUANOS</string>
+    <string name="firma_logoDescripcion">Imagen miniatura del logo Programadores Peruanos</string>
+    <string name="firma_autorEnlace">https://www.facebook.com/joelcauti</string>
+    <string name="firma_parrafo1">El repositorio de este ejercicio lo puedes encontrar en:</string>
+    <string name="firma_parrafo2">Ejercicio desarrollado por:</string>
+    <string name="boton_jugar">Jugar</string>
+    <string name="configuracion">Configuracion del Juego</string>
+    <string name="seleccion1">Selecciona una imagen para mostrar en el tablero</string>
+    <string name="seleccion2">Selecciona opciones adicionales</string>
+
 </resources>
